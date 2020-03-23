@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cieciengie.sboeck.de/sitemap.xml
